@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.sbmg.lu/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/fr/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/about.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/about.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/a-propos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/about.html"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/fr/a-propos.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/about.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/a-propos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/about.html"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/services.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/services.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/services.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/services.html"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/fr/services.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/services.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/services.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/services.html"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/institutional-cooperation.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/institutional-cooperation.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/cooperation-institutionnelle.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/institutional-cooperation.html"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/fr/cooperation-institutionnelle.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/institutional-cooperation.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/cooperation-institutionnelle.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/institutional-cooperation.html"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/insights.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/insights.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/perspectives.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/insights.html"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/fr/perspectives.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/insights.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/perspectives.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/insights.html"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/service-principles.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/service-principles.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/principes-de-service.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/service-principles.html"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/fr/principes-de-service.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/service-principles.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/principes-de-service.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/service-principles.html"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/contact.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/contact.html"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/fr/contact.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/contact.html"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/legal-notice.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/legal-notice.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/mentions-legales.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/legal-notice.html"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/fr/mentions-legales.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/legal-notice.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/mentions-legales.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/legal-notice.html"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/privacy-policy.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/privacy-policy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/politique-de-confidentialite.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/privacy-policy.html"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/fr/politique-de-confidentialite.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/privacy-policy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/politique-de-confidentialite.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/privacy-policy.html"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/insights/fifteen-year-horizon.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/insights/fifteen-year-horizon.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/perspectives/horizon-quinze-ans.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/insights/fifteen-year-horizon.html"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/fr/perspectives/horizon-quinze-ans.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/insights/fifteen-year-horizon.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/perspectives/horizon-quinze-ans.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/insights/fifteen-year-horizon.html"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/insights/luxembourg-family-base.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/insights/luxembourg-family-base.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/perspectives/luxembourg-base-familiale.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/insights/luxembourg-family-base.html"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/fr/perspectives/luxembourg-base-familiale.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/insights/luxembourg-family-base.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/perspectives/luxembourg-base-familiale.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/insights/luxembourg-family-base.html"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/insights/career-academic-bachelor.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/insights/career-academic-bachelor.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/perspectives/bachelor-professionnel-academique.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/insights/career-academic-bachelor.html"/>
+  </url>
+  <url>
+    <loc>https://www.sbmg.lu/fr/perspectives/bachelor-professionnel-academique.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sbmg.lu/insights/career-academic-bachelor.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sbmg.lu/fr/perspectives/bachelor-professionnel-academique.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sbmg.lu/insights/career-academic-bachelor.html"/>
+  </url>
+</urlset>
